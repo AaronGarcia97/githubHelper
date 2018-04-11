@@ -6,12 +6,12 @@ by A4RON
 
 * **To run the script:** 
 	* *Move the file to your project's root folder* 
-	  ```mv gitHelpBoy /path/to/root/project/``` 
+	  ```mv gitHelpBoy /path/to/root/project/```\
 	
 	* *Give execution permissions to file* 
-	  ```chmod +x gitHelpBoy``` 
+	  ```chmod +x gitHelpBoy```\
 	
 	* *Execute bash script* 
-	  ```./gitHelpBoy``` 
+	  ```./gitHelpBoy```\
 
 Feel free to use it and to modify it! :octocat: :+1:
